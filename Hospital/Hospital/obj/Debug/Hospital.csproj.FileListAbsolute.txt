@@ -1,0 +1,110 @@
+D:\C Shpak\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\C Shpak\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\C Shpak\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.insertNewPatient.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.mainReception.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.wellcome.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.AddEmployee.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.RemoveDoctore.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.removeEmployee.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.showPatient.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.Show_xReay_Patient.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.receptionClinic.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.searchPatient.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.InsertPatientToDoctor.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.OrderOfClinic.resources
+D:\C Shpak\Hospital\Hospital\obj\Debug\Hospital.PatientAtThisDate.resources
+C:\Users\hp\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\hp\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\hp\Desktop\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.AddEmployee.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.insertNewPatient.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.InsertPatientToDoctor.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.mainReception.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.OrderOfClinic.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.PatientAtThisDate.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.receptionClinic.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.RemoveDoctore.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.removeEmployee.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.searchPatient.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.showPatient.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.Show_xReay_Patient.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.wellcome.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.RemovePatientFromClinic.resources
+C:\Users\hp\Desktop\Hospital\Hospital\obj\Debug\Hospital.X_Ray_Reception.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.AddEmployee.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.insertNewPatient.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.InsertPatientToDoctor.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.mainReception.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.OrderOfClinic.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.PatientAtThisDate.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.receptionClinic.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.RemoveDoctore.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.removeEmployee.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.RemovePatientFromClinic.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.searchPatient.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.showPatient.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Show_xReay_Patient.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.wellcome.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.X_Ray_Reception.resources
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Ahmed Ali\Desktop\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.AddEmployee.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.insertNewPatient.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.InsertPatientToDoctor.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.mainReception.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.OrderOfClinic.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.PatientAtThisDate.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.receptionClinic.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.RemoveDoctore.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.removeEmployee.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.RemovePatientFromClinic.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.searchPatient.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.showPatient.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Show_xReay_Patient.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.wellcome.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.X_Ray_Reception.resources
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\hp\Desktop\db project\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.pdb
