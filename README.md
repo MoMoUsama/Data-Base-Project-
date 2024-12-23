@@ -19,7 +19,7 @@ The digital management system manages all aspects of the institute, including:
 **Database Management** System: SQL Server (MSS)
 **Design and Modeling** Tools: Entity-Relationship (ER) modeling and relational database schema.
 
-**Application Highlights**
+### **Application Highlights**
 **Data Integrity**: Ensures accurate and secure storage of critical data.\
 **Efficiency**: Simplifies workflows, reduces processing times, and eliminates paper-based bottlenecks.\
 **Scalability**: Supports the growing needs of the National Cancer Institute.\
