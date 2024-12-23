@@ -12,15 +12,15 @@ The digital management system manages all aspects of the institute, including:
 **Employee Management**: Storing employee data such as ID, name, birthday, salary, and assigned clinics.\
 **Room Management**: Managing room allocations for both doctors and patients.\
 **Clinic Management**: Organizing clinic details, including names and associated rooms.\
-**Orders and Medical Tests**: Handling orders, X-rays, and medical analyses associated with patients.\
+**Orders and Medical Tests**: Handling orders, X-rays, and medical analyses associated with patients.
 
 ### **Technologies Used**
 **Programming Language**: C#\
 **Database Management** System: SQL Server (MSS)\
-**Design and Modeling** Tools: Entity-Relationship (ER) modeling and relational database schema.\
+**Design and Modeling** Tools: Entity-Relationship (ER) modeling and relational database schema.
 
 ### **Application Highlights**
 **Data Integrity**: Ensures accurate and secure storage of critical data.\
 **Efficiency**: Simplifies workflows, reduces processing times, and eliminates paper-based bottlenecks.\
 **Scalability**: Supports the growing needs of the National Cancer Institute.\
-**User-Friendly Interface**: Designed for ease of use by administrative staff and healthcare professionals.\
+**User-Friendly Interface**: Designed for ease of use by administrative staff and healthcare professionals.
