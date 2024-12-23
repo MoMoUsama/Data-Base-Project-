@@ -15,9 +15,9 @@ The digital management system manages all aspects of the institute, including:
 **Orders and Medical Tests**: Handling orders, X-rays, and medical analyses associated with patients.\
 
 ### **Technologies Used**
-**Programming Language**: C#
-**Database Management** System: SQL Server (MSS)
-**Design and Modeling** Tools: Entity-Relationship (ER) modeling and relational database schema.
+**Programming Language**: C#\
+**Database Management** System: SQL Server (MSS)\
+**Design and Modeling** Tools: Entity-Relationship (ER) modeling and relational database schema.\
 
 ### **Application Highlights**
 **Data Integrity**: Ensures accurate and secure storage of critical data.\
